@@ -1,7 +1,7 @@
 # CCOMP2.1
 
-#Yorlenny
+# Yorlenny
 
-#Ciencia de la computacion
+# Ciencia de la computacion
 
-#Universidad Catolica San Pablo
+# Universidad Catolica San Pablo
